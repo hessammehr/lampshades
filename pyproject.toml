@@ -1,0 +1,10 @@
+[project]
+name = "lampshades"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "numpy>=2.4.0",
+    "shapely>=2.1.2",
+    "trimesh[easy]>=4.10.1",
+]
